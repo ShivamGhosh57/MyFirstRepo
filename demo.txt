@@ -1,3 +1,4 @@
 Hello Git
 New line added
 Second line
+Recovered content
